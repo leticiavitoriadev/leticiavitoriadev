@@ -1,7 +1,10 @@
-𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐋𝐞𝐭í𝐜𝐢𝐚! °˖✧◝(⁰▿⁰)◜✧˖°
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFC0CB&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3C𝐋𝐞𝐭í𝐜𝐢𝐚+𝐕𝐢𝐭ó𝐫𝐢𝐚%2F%3E)](https://git.io/typing-svg)
 
 ##
 
+𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐋𝐞𝐭í𝐜𝐢𝐚! °˖✧◝(⁰▿⁰)◜✧˖°
 
 ![Letícia GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiavitoriadev&show_icons=true&theme=dracula) 
 
