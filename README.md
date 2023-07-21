@@ -6,10 +6,6 @@
 
 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐋𝐞𝐭í𝐜𝐢𝐚! °˖✧◝(⁰▿⁰)◜✧˖°
 
-![Letícia GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiavitoriadev&show_icons=true&theme=dracula) 
-
-
-
 <div style="display: inline_block">
   
 ##
