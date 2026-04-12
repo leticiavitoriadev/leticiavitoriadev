@@ -1,4 +1,8 @@
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&center=true&vCenter=true&width=1000&height=100&color=FFFFFF&lines=%3CLetícia Souza%2F%3E" alt="Animação de Digitação"/>
+  </a>
+</div>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f5d7fd54-bf93-4e83-a5aa-6394ea7b86db" width="800px" />
 </div>
