@@ -24,8 +24,6 @@
 <br>
 engineering student  
 tech • creativity • learning
-
-<br>
 always exploring, always building  
 one project at a time
 </samp>
