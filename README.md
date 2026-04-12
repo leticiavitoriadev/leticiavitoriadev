@@ -1,21 +1,62 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=header"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=22&pause=1000&color=56ADF7&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+world!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFC0CB&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3C𝐋𝐞𝐭í𝐜𝐢𝐚+𝐕𝐢𝐭ó𝐫𝐢𝐚%2F%3E)](https://git.io/typing-svg)
+<div align="center">
+  <img src="![Image](https://github.com/user-attachments/assets/f5d7fd54-bf93-4e83-a5aa-6394ea7b86db)" />
+</div>
+
+<!-- Sobre Mim -->
+<div align="center">
+  <samp>
+    <br>
+  </samp>
+</div>
+
+<div align="center">
+  
+  <b>`art, technology and engineering`</b>
+  <samp>
+      <br>
 
 ##
 
-𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐋𝐞𝐭í𝐜𝐢𝐚! °˖✧◝(⁰▿⁰)◜✧˖°
+<!-- Contatos -->
+<div>
+  <img src="https://github.com/user-attachments/assets/2997e064-33d4-4662-bd21-2bf13f25bc25" width="250" align="right">
 
-<div style="display: inline_block">
-  
-##
-  
-𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐈 𝐮𝐬𝐞:
-  
-  <img align="center" alt="react" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align="center" alt="react" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <h3 align="left">Connect with me!</h3>
+  <div align="left">
+    <a href="mailto:leticiavitoria.dev@gmail.com" target="_blank">
+      <img 
+        src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=5fa8d3&logoColor=white&labelColor=&style=for-the-badge" 
+        height="38"
+        alt="gmail logo"
+      />
+    </a>
+    <a href="https://br.linkedin.com/in/leticiavitoriadev?trk=people-guest_people_search-card" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=5fa8d3&logoColor=white&labelColor=&style=for-the-badge" 
+        height="38" 
+        alt="linkedin logo"  
+      />
+    </a>
+  </div>
 
+  <!-- Clear para a próxima seção -->
+  <div style="clear: both;"></div>
 
-</div><br/>
+  <!-- Stacks -->
+  <h3 align="left">𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐈 𝐮𝐬𝐞: </h3>
+  <div align="left">    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="C++" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=c" height="70" alt="C" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=py" height="70" alt="Python" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=java" height="70" alt="Java" />
+    <img width="12" />
+  </div>
+
