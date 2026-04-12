@@ -31,7 +31,6 @@ one project at a time
 </samp>
 
 </div>
-
 <div align="center">
   
   <b>`running analog emotions in a digital world.`</b>
