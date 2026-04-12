@@ -42,13 +42,13 @@ tech • creativity • learning
   <div align="left">
     <a href="mailto:leticiavitoria.dev@gmail.com" target="_blank">
       <img 
-        src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=5fa8d3&logoColor=white&labelColor=&style=for-the-badge" 
+        src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f3d8e0&logoColor=white&labelColor=&style=for-the-badge" 
         height="38"
         alt="gmail logo"
       />
     </a>
     <a href="https://br.linkedin.com/in/leticiavitoriadev?trk=people-guest_people_search-card" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=5fa8d3&logoColor=white&labelColor=&style=for-the-badge" 
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=f3d8e0&logoColor=white&labelColor=&style=for-the-badge" 
         height="38" 
         alt="linkedin logo"  
       />
