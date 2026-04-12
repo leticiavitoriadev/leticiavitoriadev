@@ -1,8 +1,17 @@
+<div align="center">
+
   <img 
     src="https://github.com/user-attachments/assets/3816231f-b3b6-4e67-b658-83061416284b" 
   />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3C𝐋𝐞𝐭í𝐜𝐢𝐚+𝐕𝐢𝐭ó𝐫𝐢𝐚%2F%3E)](https://git.io/typing-svg)
-<div align="center">
+
+  <br><br>
+
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=75&center=true&vCenter=true&width=900&height=100&lines=%3C𝐋𝐞𝐭í𝐜𝐢𝐚+𝐕𝐢𝐭ó𝐫𝐢𝐚%2F%3E" 
+    />
+  </a>
+
 </div>
 
 
