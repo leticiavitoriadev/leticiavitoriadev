@@ -1,6 +1,8 @@
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f5d7fd54-bf93-4e83-a5aa-6394ea7b86db" width="100%" style="max-width: 900px;" />
+  <img src="https://github.com/user-attachments/assets/f5d7fd54-bf93-4e83-a5aa-6394ea7b86db" width="800px" />
 </div>
+
 
 <!-- Sobre Mim -->
 <div align="center">
