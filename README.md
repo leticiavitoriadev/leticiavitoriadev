@@ -1,8 +1,6 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&center=true&vCenter=true&width=1000&height=100&color=FFFFFF&lines=%3CLetícia Souza%2F%3E" alt="Animação de Digitação"/>
-  </a>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFC0CB&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3C𝐋𝐞𝐭í𝐜𝐢𝐚+𝐕𝐢𝐭ó𝐫𝐢𝐚%2F%3E)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f5d7fd54-bf93-4e83-a5aa-6394ea7b86db" width="800px" />
 </div>
