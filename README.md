@@ -23,7 +23,7 @@
 
 <!-- Contatos -->
 <div>
-  <img src="https://github.com/user-attachments/assets/2997e064-33d4-4662-bd21-2bf13f25bc25" width="250" align="right">
+  <img src="![Image](https://github.com/user-attachments/assets/3a446e51-81ae-479b-a545-691670a20d0c)">
 
   <h3 align="left">Connect with me!</h3>
   <div align="left">
