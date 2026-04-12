@@ -25,15 +25,12 @@
 engineering student 
 <br>
 tech • creativity • learning
-<br>
-always exploring, always building  
-one project at a time
 </samp>
 
 </div>
 <div align="center">
   
-  <b>`running analog emotions in a digital world.`</b>
+  <b>`always exploring, always building one project at a time`</b>
   <samp>
       <br>
 
