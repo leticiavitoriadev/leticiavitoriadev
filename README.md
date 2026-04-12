@@ -67,5 +67,12 @@ tech • creativity • learning
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=java" height="70" alt="Java" />
     <img width="12" />
+    <img align="center" alt="HTML" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+    <img width="12" />
+    <img align="center" alt="CSS" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+    <img width="12" />
+    <img align="center" alt="nodejs" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg">
+    <img width="12" />
+
   </div>
 
