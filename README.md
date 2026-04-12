@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  <b>`art, technology and engineering`</b>
+  <b>`running analog emotions in a digital world.`</b>
   <samp>
       <br>
 
