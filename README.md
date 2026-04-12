@@ -60,25 +60,25 @@ tech • creativity • learning
   <h3 align="left">𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐈 𝐮𝐬𝐞:</h3>
 <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=cpp" height="65" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" />
   <img width="10" />
 
-  <img src="https://skillicons.dev/icons?i=c" height="65" />
+  <img src="https://skillicons.dev/icons?i=c" width="65" height="65" />
   <img width="10" />
 
-  <img src="https://skillicons.dev/icons?i=py" height="65" />
+  <img src="https://skillicons.dev/icons?i=py" width="65" height="65" />
   <img width="10" />
 
-  <img src="https://skillicons.dev/icons?i=java" height="65" />
+  <img src="https://skillicons.dev/icons?i=java" width="65" height="65" />
   <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="65" height="65" />
   <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="65" height="65" />
   <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg" width="65" height="65" />
 
 </div>
 
