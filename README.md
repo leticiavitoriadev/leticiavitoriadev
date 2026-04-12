@@ -59,7 +59,7 @@ tech • creativity • learning
   <div style="clear: both;"></div>
 
   <!-- Stacks -->
-  <h3 align="left">𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐈 𝐮𝐬𝐞:/h3>
+  <h3 align="left">𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐈 𝐮𝐬𝐞:</h3>
   <div align="left">    <img width="12" />
     <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="C++" />
     <img width="12" />
