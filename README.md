@@ -36,7 +36,7 @@ tech • creativity • learning
 
 <!-- Contatos -->
 <div>
-<img src="https://github.com/user-attachments/assets/3a446e51-81ae-479b-a545-691670a20d0c"width="250" align="right">
+<img src="https://github.com/user-attachments/assets/6c7cbc39-a664-4fc2-8b11-dc0c4b1bfe50"width="250" align="right">
 
   <h3 align="left">Connect with me!</h3>
   <div align="left">
