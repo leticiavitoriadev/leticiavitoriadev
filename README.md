@@ -38,7 +38,7 @@ tech • creativity • learning
 <div>
 <img src="https://github.com/user-attachments/assets/6c7cbc39-a664-4fc2-8b11-dc0c4b1bfe50"width="250" align="right">
 
-  <h3 align="left">⋆｡°✩ 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 ✩°｡⋆</h3>
+  <h3 align="left">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</h3>
   <div align="left">
     <a href="mailto:leticiavitoria.dev@gmail.com" target="_blank">
       <img 
@@ -59,7 +59,7 @@ tech • creativity • learning
   <div style="clear: both;"></div>
 
   <!-- Stacks -->
-  <h3 align="left">⋆｡°✩ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐈 𝐮𝐬𝐞: ✩°｡⋆</h3>
+  <h3 align="left">𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐈 𝐮𝐬𝐞:/h3>
   <div align="left">    <img width="12" />
     <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="C++" />
     <img width="12" />
