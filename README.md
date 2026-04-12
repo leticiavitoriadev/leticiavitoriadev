@@ -6,7 +6,7 @@
 
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?color=f3d8e0&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3C𝐋𝐞𝐭í𝐜𝐢𝐚+𝐕𝐢𝐭ó𝐫𝐢𝐚%2F%3E" 
+      src="https://readme-typing-svg.herokuapp.com?color=f3d8e0&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3C𝐋𝐞𝐭í𝐜𝐢𝐚+Souza%2F%3E" 
     />
   </a>
 
@@ -18,7 +18,7 @@
 
 <samp>
 
-⋆｡°✩ 𝐋𝐞𝐭í𝐜𝐢𝐚 𝐕𝐢𝐭ó𝐫𝐢𝐚 ✩°｡⋆
+⋆｡°✩ 𝐋𝐞𝐭í𝐜𝐢𝐚 𝐒𝐨𝐮𝐳𝐚 ✩°｡⋆
 <br>
 engineering student 
 <br>
