@@ -21,17 +21,13 @@
 <samp>
 
 ⋆｡°✩ 𝐋𝐞𝐭í𝐜𝐢𝐚 𝐕𝐢𝐭ó𝐫𝐢𝐚 ✩°｡⋆
-
 <br>
-
 engineering student  
 tech • creativity • learning
 
-<br><br>
-
+<br>
 always exploring, always building  
 one project at a time
-
 </samp>
 
 </div>
