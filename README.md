@@ -18,9 +18,7 @@
 
 <samp>
 
-⋆｡°✩ 𝐋𝐞𝐭í𝐜𝐢𝐚 𝐒𝐨𝐮𝐳𝐚 ✩°｡⋆
-<br>
-engineering student 
+✩°｡⋆engineering student ✩°｡⋆
 <br>
 tech • creativity • learning
 </samp>
