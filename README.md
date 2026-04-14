@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/leticiavitoriadev/leticiavitoriadev/main/%C3%A7.jpg" />
+  <img src="https://raw.githubusercontent.com/leticiavitoriadev/leticiavitoriadev/main/banner.jpg" />
   <br><br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=f3d8e0&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3C𝐋𝐞𝐭í𝐜𝐢𝐚+𝐒𝐨𝐮𝐳𝐚%2F%3E" />
