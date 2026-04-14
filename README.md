@@ -6,7 +6,6 @@
   </a>
 </div>
 
-<!-- Sobre Mim -->
 <div align="center">
   <samp>
     ✩°｡⋆ engineering student ✩°｡⋆
@@ -21,10 +20,9 @@
 
 <br>
 
-<!-- Contatos -->
 <div>
-  <img 
-    src="https://raw.githubusercontent.com/leticiavitoriadev/leticiavitoriadev/main/banner.gif"
+  <img
+    src="https://raw.githubusercontent.com/leticiavitoriadev/leticiavitoriadev/main/cinnamoroll.gif"
     width="250"
     align="right"
   >
@@ -42,7 +40,7 @@
 
   <div style="clear: both;"></div>
 
-  <h3 align="left">𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐈 𝐮𝐬𝐞:</h3>
+  <h3 align="left">Technology I use:</h3>
 
   <div align="left">
     <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" />
