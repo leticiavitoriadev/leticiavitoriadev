@@ -38,6 +38,3 @@
     </a>
   </div>
 
-  <div style="clear: both;"></div>
-
-</div>
