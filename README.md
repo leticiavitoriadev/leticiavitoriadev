@@ -42,14 +42,4 @@
 
   <h3 align="left">Technology I use:</h3>
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=c" width="65" height="65" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py" width="65" height="65" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java" width="65" height="65" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="65" height="65" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" style="display: inline-block; margin-right: 15px;" />
-  <img src="https://skillicons.dev/icons?i=c" width="65" height="65" style="display: inline-block; margin-right: 15px;" />
-  <img src="https://skillicons.dev/icons?i=py" width="65" height="65" style="display: inline-block; margin-right: 15px;" />
-  <img src="https://skillicons.dev/icons?i=java" width="65" height="65" style="display: inline-block; margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="65" height="65" style="display: inline-block; margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" style="display: inline-block; margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg" width="65" height="65" style="display: inline-block;" />
-</div>
 </div>
