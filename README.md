@@ -26,9 +26,9 @@
     width="250"
     align="right"
   >
-
+<br>
+<br>
   <h3 align="left">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</h3>
-
   <div align="left">
     <a href="mailto:leticiavitoria.dev@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f3d8e0&logoColor=white&style=for-the-badge" height="38" />
