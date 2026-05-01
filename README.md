@@ -40,6 +40,4 @@
 
   <div style="clear: both;"></div>
 
-  <h3 align="left">Technology I use:</h3>
-
 </div>
