@@ -42,13 +42,15 @@
 
   <h3 align="left">Technology I use:</h3>
 
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
-    <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" />
-    <img src="https://skillicons.dev/icons?i=c" width="65" height="65" />
-    <img src="https://skillicons.dev/icons?i=py" width="65" height="65" />
-    <img src="https://skillicons.dev/icons?i=java" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg" width="65" height="65" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=c" width="65" height="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=py" width="65" height="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java" width="65" height="65" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="65" height="65" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg" width="65" height="65" /></td>
+  </tr>
+</table>
 </div>
